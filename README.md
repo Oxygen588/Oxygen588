@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Alex, a full-time full-stack  developer 👨‍💻</div>  
+### <div align="center">I'm Alex, a full-stack  developer 👨‍💻</div>  
   
 
 - 🔭 I’m currently learning [Rust](https://www.rust-lang.org)  

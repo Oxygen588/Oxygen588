@@ -6,8 +6,7 @@
 ### <div align="center">I'm Alex, a full-stack  developer 👨‍💻</div>  
   
 
-- 🔭 I’m currently learning [Rust](https://www.rust-lang.org)  
-  
+- 🔭 I’m currently looking for new projects. 
 
 <br/>  
 
@@ -99,5 +98,4 @@
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
